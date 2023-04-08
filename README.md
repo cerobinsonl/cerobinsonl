@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ETL for identify real time interactions of client renewable on car insurance companies.
-- 🌱 I’m currently learning apache ecosystem,  machine learning models and GCP cloud.
+- 🔭 I’m currently working on marketing based on data and used to work building ETL for identify real time interactions of client renewable on car insurance companies.
+- 🌱 I’m currently learning apache ecosystem, deep learning, machine learning models and GCP cloud.
 - 👯 I’m looking to collaborate on renewable energy projects.
 - 🤔 I’m looking for help in my way to improving my data skills.
 
