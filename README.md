@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on marketing based on data and used to work building ETL for identify real time interactions of client renewable on car insurance companies.
-- 🌱 I’m currently learning apache ecosystem, deep learning, machine learning models and GCP cloud.
+- 🔭 I’m currently working on developing data engineering, machine learning and generative AI solution on GCP for multiple clients.
+- 🌱 I’m currently in my P.hD program in engineering where I'm applying machine learning and deep learning for anomaly detection for solar systems using edge AI.
 - 👯 I’m looking to collaborate on renewable energy projects.
 - 🤔 I’m looking for help in my way to improving my data skills.
 
